@@ -18,7 +18,7 @@
   <text x="110" y="90" class="value">Peter Ayman</text>
 
   <text x="20" y="115" class="label">Role:</text>
-  <text x="110" y="115" class="value">UI/UX Designer & Front-End Developer</text>
+  <text x="110" y="115" class="value">UI/UX Designer &amp; Front-End Developer</text>
 
   <text x="20" y="140" class="label">Education:</text>
   <text x="110" y="140" class="value">Business Information Systems (BIS)</text>
